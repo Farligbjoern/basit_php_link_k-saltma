@@ -19,12 +19,16 @@
            font-family: sans-serif;
             box-sizing: border-box;
         }
+        /*Boş*/
         .link{
             background-color: gray;
             text-align: center;
             width: 50%;
             height: 50px;
             padding: 30px;
+        }
+        /*Boş*/
+        .lnk {
         }
     </style>
      <?php $db = mysqli_connect("localhost", "root", "", "linkler")?>
